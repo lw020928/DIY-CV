@@ -35,7 +35,7 @@
 
 @media (max-width: 500px) {
     #html {
-        height: 60vh;
+        height: 55vh;
         overflow: auto;
         padding: 10px;
 
@@ -46,7 +46,7 @@
         top: 0;
         left: 0;
         transform: none;
-        height: 40vh;
+        height: 45vh;
     }
 
     #wrapper>.text {
