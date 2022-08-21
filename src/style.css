@@ -54,16 +54,13 @@
         margin-top: 0;
     }
 
-    #bagua {
-        position: relative;
+    #wrapper>#bagua {
         width: 260px;
         height: 260px;
-        top: 0;
-        right: 0;
     }
 
-    #bagua::before,
-    #bagua::after {
+    #wrapper>#bagua::before,
+    #wrapper>#bagua::after {
         width: 130px;
         height: 130px;
     }
