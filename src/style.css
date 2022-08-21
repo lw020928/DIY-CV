@@ -54,13 +54,13 @@
     }
 
     #wrapper>#bagua {
-        width: 260px;
-        height: 260px;
+        width: 240px;
+        height: 240px;
     }
 
     #wrapper>#bagua::before,
     #wrapper>#bagua::after {
-        width: 130px;
-        height: 130px;
+        width: 120px;
+        height: 120px;
     }
 }
